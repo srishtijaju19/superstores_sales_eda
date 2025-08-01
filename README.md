@@ -59,11 +59,3 @@ This project explores the sales and profitability performance of a fictional ret
 - **Focus marketing and upselling efforts** on top-performing categories and regions.
 - **Balance shipping cost and delivery time** to optimize profit margins.
 
----
-
-## 🚀 How to Run
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/superstore-sales-eda.git
-   cd superstore-sales-eda
